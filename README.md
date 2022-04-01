@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NhanDotJS
 - 👀 I’m interested networking and full stack developing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, reading Next.Js Docs and FIREBASEEEEEE 🔥🔥🔥
 - 💞️ I’m looking to collaborate on anything Python, Js or Java based
 
 <!---
